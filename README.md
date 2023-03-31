@@ -15,4 +15,4 @@
 * Diagramas de secuencia
 
 
-* Archicos enterprise architect
+* Archivos Enterprise Architect
